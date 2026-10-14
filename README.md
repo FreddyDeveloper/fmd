@@ -2,8 +2,6 @@
   <img src="assets/fmd.png" width="128" alt="FMD logo">
 </p>
 
-<h1 align="center">FMD</h1>
-
 <p align="center">
   A fast, native Markdown reader and editor for Windows.<br>
   Free for everyone, including commercial use.
