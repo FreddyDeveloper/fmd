@@ -1,0 +1,140 @@
+FMD END USER LICENSE AGREEMENT
+Version 1.1, October 2026
+
+Copyright (c) 2026 by FreddyDeveloper (https://freddydeveloper.com).
+All rights reserved.
+
+Please read this agreement before installing or using FMD. By installing,
+copying or using FMD, you agree to these terms. If you do not agree, do not
+install or use FMD.
+
+
+1. DEFINITIONS
+
+"FMD" or "the Software" means the FMD Markdown reader and editor, including
+its installer, executable files, icons, documentation and any updates
+provided by FreddyDeveloper.
+
+"FreddyDeveloper", "we" and "us" refer to the author and owner of FMD.
+
+"You" means the person or organization installing or using FMD.
+
+
+2. LICENSE GRANT
+
+FMD is freeware. FreddyDeveloper grants you a free, non-exclusive,
+non-transferable, worldwide license to:
+
+  a) install and use FMD on any number of devices;
+  b) use FMD for personal, educational, non-profit and commercial purposes,
+     including inside companies and organizations of any size;
+  c) share copies of the official, unmodified FMD installer with others,
+     as long as you do so free of charge and keep this agreement and all
+     copyright notices intact.
+
+This is a license to use FMD, not a sale. FreddyDeveloper keeps all rights
+not expressly granted to you.
+
+
+3. RESTRICTIONS
+
+You may not, and may not allow anyone else to:
+
+  a) modify, adapt, translate or create derivative works of FMD;
+  b) decompile, disassemble or reverse engineer FMD, or try to obtain its
+     source code, except where applicable law expressly allows it despite
+     this restriction;
+  c) sell, rent, lease, sublicense or charge any fee for FMD or for access
+     to it;
+  d) bundle FMD with other software, or distribute it in modified or
+     repackaged form, without written permission from FreddyDeveloper;
+  e) remove, hide or change any copyright notice, trademark, logo or this
+     agreement;
+  f) present FMD, or any part of it, as your own work;
+  g) use the FMD name or logo, or the FreddyDeveloper name, in a way that
+     suggests endorsement, without written permission.
+
+
+4. OWNERSHIP
+
+FMD, including its code, design, name, logo and documentation, is the
+property of FreddyDeveloper and is protected by copyright and other
+intellectual property laws. FMD's source code is confidential and is not
+provided under this agreement.
+
+
+5. YOUR DOCUMENTS AND PRIVACY
+
+The documents you open, create or export with FMD belong to you.
+FreddyDeveloper claims no rights over them.
+
+FMD does not collect, send or sell any personal data, and it has no
+analytics or tracking. FMD only connects to the internet to load images
+that your own documents reference by web address, and to open a link in
+your web browser when you click it. Your preferences are stored only on
+your computer.
+
+The "Export for AI" feature only formats text on your computer. It does not
+send anything to any AI service. If you paste or upload the result into an
+AI service, that service's own terms and privacy policy apply.
+
+
+6. THIRD-PARTY COMPONENTS
+
+FMD includes third-party open-source components, such as Markdig,
+AvalonEdit and parts of the .NET runtime. Those components are licensed to
+you under their own licenses, listed in the THIRD-PARTY-NOTICES.txt file
+installed with FMD. Nothing in this agreement limits your rights under
+those licenses for those components.
+
+
+7. UPDATES
+
+FreddyDeveloper may release updates, but has no obligation to do so. Unless
+an update comes with its own agreement, this agreement applies to it.
+
+
+8. NO WARRANTY
+
+FMD IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY AND
+NON-INFRINGEMENT. FREDDYDEVELOPER DOES NOT WARRANT THAT FMD WILL BE
+ERROR-FREE OR UNINTERRUPTED. YOU USE FMD AT YOUR OWN RISK. KEEP BACKUPS OF
+IMPORTANT FILES.
+
+
+9. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, FREDDYDEVELOPER SHALL NOT BE LIABLE
+FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR
+FOR ANY LOSS OF DATA, PROFITS, REVENUE OR BUSINESS, ARISING OUT OF OR
+RELATED TO THE USE OF, OR INABILITY TO USE, FMD, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES. BECAUSE FMD IS PROVIDED FREE OF CHARGE,
+FREDDYDEVELOPER'S TOTAL LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED
+ZERO US DOLLARS (USD 0), WHERE PERMITTED BY LAW.
+
+Some jurisdictions do not allow the exclusion or limitation of certain
+warranties or damages, so some of the above may not apply to you.
+
+
+10. TERMINATION
+
+This license ends automatically if you break any of its terms. When it
+ends, you must stop using FMD and delete all copies. Sections 4, 5, 8, 9
+and 11 continue to apply after the license ends.
+
+
+11. GOVERNING LAW
+
+This agreement is governed by the laws of the Republic of Panama, without
+regard to its conflict-of-law rules. If any part of this agreement is found
+unenforceable, the rest remains in effect.
+
+
+12. CONTACT
+
+Questions about this agreement: https://freddydeveloper.com
+
+By clicking "I Agree" during installation, or by using FMD, you confirm
+that you have read and accept this agreement.
